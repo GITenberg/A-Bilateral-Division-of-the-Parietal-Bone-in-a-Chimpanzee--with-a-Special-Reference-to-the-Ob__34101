@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Ale%C5%A1_Hrdli%C4%8Dka
 description: Extracted from bulletin of the American Museum of Natural History, Vol.
   XIII, Article XXI, pp. 281–295, Dec. 31, 1900
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34101#A-Bilateral-Division-of-the-Parietal-Bone-in-a-Chimpanzee--with-a-Special-Reference-to-the-Ob_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
