@@ -1,0 +1,40 @@
+_repo: A-Bilateral-Division-of-the-Parietal-Bone-in-a-Chimpanzee--with-a-Special-Reference-to-the-Ob__34101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hrdlička, Aleš
+    aliases:
+    - Hrdlička, A. (Aleš)
+    - Grdlichka, Alesh
+    - Hrdlicka, Ales
+    - Hrdlička, Alois Ferdinand
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '36771'
+    url: http://www.gutenberg.org/2009/agents/36771
+    wikipedia: http://en.wikipedia.org/wiki/Ale%C5%A1_Hrdli%C4%8Dka
+description: Extracted from bulletin of the American Museum of Natural History, Vol.
+  XIII, Article XXI, pp. 281–295, Dec. 31, 1900
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chimpanzees -- Abnormalities'
+- !lcsh 'Skull -- Abnormalities'
+- !lcsh 'Skull -- Anatomy'
+- !lcc 'QH'
+- !lcsh 'Cranial sutures'
+title: A Bilateral Division of the Parietal Bone in a Chimpanzee; with a Special Reference
+  to the Oblique Sutures in the Parietal
+url: http://www.gutenberg.org/ebooks/34101
